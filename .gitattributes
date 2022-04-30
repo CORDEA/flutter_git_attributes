@@ -1,2 +1,2 @@
-*.freezed.dart -diff
-*.mocks.dart -diff
+*.freezed.dart linguist-generated=true -diff
+*.mocks.dart linguist-generated=true -diff
